@@ -1,0 +1,18 @@
+# Built outputs
+build/
+.gradle/
+
+# Local configuration
+local.properties
+
+# Sensitive
+google-services.json
+*.keystore
+*.jks
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
